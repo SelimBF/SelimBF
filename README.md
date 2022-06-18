@@ -1,15 +1,3 @@
-### Hi there 👋
-
-<!--
-**SelimBF/SelimBF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Infrastructure Cloud
-- 🌱 I’m currently learning SRE
-- 👯 I’m looking to collaborate on cloud Native 
-- 💬 Ask me about anythings
-- 📫 How to reach me: mail : benfradjselim@gmail.com
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selimbf&label=Profile%20views&color=0e75b6&style=flat" alt="selimbf" /> </p>
@@ -28,10 +16,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selimbf&show_icons=true&locale=en&layout=compact" alt="selimbf" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selimbf&show_icons=true&locale=en" alt="selimbf" /></p>
-
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimBF)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SelimBF&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimBF&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
